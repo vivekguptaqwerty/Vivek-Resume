@@ -5,4 +5,4 @@
 
 # My Resume thumbnail:
 
-![Resume](assets/img/Vivek-Resume.pdf)
+![Resume](assets/img/Vivek-Resume-1.png)
