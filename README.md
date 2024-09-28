@@ -1,7 +1,5 @@
-# Responsive-resume
-
-> Sponsor me at-least 1$ for more open source projects
-> https://www.patreon.com/imuhammadessa
+# Resume
+>(https://vivekkgupta-resume.netlify.app/)
 
 # My Resume thumbnail:
 
